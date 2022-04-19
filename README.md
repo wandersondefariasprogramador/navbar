@@ -5,7 +5,7 @@ Como Fazer um Menu Navbar Responsivo - Tutorial HTML, CSS e JavaScript para Inic
 
 
 
-<!DOCTYPE html>
+#<!DOCTYPE html>
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
